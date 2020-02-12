@@ -9,6 +9,7 @@ body{
 header{
     width: 1060px;
     height: 126px;
+    margin-bottom: 20px;
 }
         input{
             width: 840px;
